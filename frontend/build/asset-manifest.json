@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db7a31b1.css",
+    "main.js": "/static/js/main.7122a8bc.js",
+    "static/media/seashell.jpg": "/static/media/seashell.93575be8b8df5d2f0d60.jpg",
+    "index.html": "/index.html",
+    "main.db7a31b1.css.map": "/static/css/main.db7a31b1.css.map",
+    "main.7122a8bc.js.map": "/static/js/main.7122a8bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7a31b1.css",
+    "static/js/main.7122a8bc.js"
+  ]
+}
