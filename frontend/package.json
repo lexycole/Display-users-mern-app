@@ -1,5 +1,9 @@
 {
   "name": "client",
+  "engines": {
+    "node": "16.10.0",
+    "npm": "7.6.3"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {

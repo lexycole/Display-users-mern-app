@@ -1,5 +1,9 @@
 {
   "name": "real-mern-skeleton",
+  "engines": {
+    "node": "16.10.0",
+    "npm": "7.6.3"
+  },
   "version": "1.0.0",
   "description": "mongo express react ndejs",
   "main": "server.js",
